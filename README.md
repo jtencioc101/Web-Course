@@ -1,1 +1,1 @@
-# Web-Course
+# Repo for the Udemy Web course
